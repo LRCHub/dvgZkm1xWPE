@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "Viva La Vida",
+  "base_artist": "Coldplay",
+  "createdAt": "2025-12-29T12:37:52.383427Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Viva La Vida",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/01_Viva_La_Vida_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Viva La Vida",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/02_Viva_La_Vida_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Viva La Vida",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Puddles Pity Party",
+      "has_synced": true,
+      "path": "select/03_Viva_La_Vida_Scott_Bradlee's_Postmodern_Jukebox_feat._Puddles_Pity_Party.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Viva la Vida/Domino Dancing - Christmas EP Mix; 2018 Remastered Version",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/04_Viva_la_Vida_Domino_Dancing_-_Christmas_EP_Mix;_2018_Remastered_Version_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Viva la Vida / Domino Dancing (Christmas EP Mix)",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/05_Viva_la_Vida___Domino_Dancing_(Christmas_EP_Mix)_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Viva La Vida",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/06_Viva_La_Vida_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Viva La Vida (Live)",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/07_Viva_La_Vida_(Live)_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Viva La Vida",
+      "artist": "Weezer",
+      "has_synced": false,
+      "path": "select/08_Viva_La_Vida_Weezer.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Viva La Vida",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/09_Viva_La_Vida_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Viva La Vida",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/10_Viva_La_Vida_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Viva La Vida (Cover)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/11_Viva_La_Vida_(Cover)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "0991 - Coldplay - Viva la Vida",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/12_0991_-_Coldplay_-_Viva_la_Vida_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Viva la Vida",
+      "artist": "Scala & Kolacny Brothers",
+      "has_synced": false,
+      "path": "select/13_Viva_la_Vida_Scala_&_Kolacny_Brothers.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Viva La Vida",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/14_Viva_La_Vida_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Viva La Vida",
+      "artist": "Shalom Margaret",
+      "has_synced": true,
+      "path": "select/15_Viva_La_Vida_Shalom_Margaret.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Viva La Vida",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/16_Viva_La_Vida_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Viva La Vida",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/17_Viva_La_Vida_Coldplay.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Viva la Vida",
+      "artist": "コールドプレイ",
+      "has_synced": false,
+      "path": "select/pl_01_Viva_la_Vida_コールドプレイ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Viva La Vida",
+      "artist": "コールドプレイ",
+      "has_synced": false,
+      "path": "select/pl_02_Viva_La_Vida_コールドプレイ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Viva La Vida",
+      "artist": "コールドプレイ",
+      "has_synced": false,
+      "path": "select/pl_03_Viva_La_Vida_コールドプレイ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Viva La Vida",
+      "artist": "コールドプレイ",
+      "has_synced": false,
+      "path": "select/pl_04_Viva_La_Vida_コールドプレイ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Viva La Vida",
+      "artist": "コールドプレイ",
+      "has_synced": false,
+      "path": "select/pl_05_Viva_La_Vida_コールドプレイ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Viva La Vida",
+      "artist": "コールドプレイ",
+      "has_synced": false,
+      "path": "select/pl_06_Viva_La_Vida_コールドプレイ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Viva La Vida",
+      "artist": "コールドプレイ",
+      "has_synced": false,
+      "path": "select/pl_07_Viva_La_Vida_コールドプレイ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Viva La Vida",
+      "artist": "コールドプレイ",
+      "has_synced": false,
+      "path": "select/pl_08_Viva_La_Vida_コールドプレイ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Viva La Vida",
+      "artist": "コールドプレイ",
+      "has_synced": false,
+      "path": "select/pl_09_Viva_La_Vida_コールドプレイ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Viva La Vida",
+      "artist": "コールドプレイ",
+      "has_synced": false,
+      "path": "select/pl_10_Viva_La_Vida_コールドプレイ.txt"
+    }
+  ]
+}
